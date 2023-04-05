@@ -18,6 +18,8 @@ You can switch between chat rooms at any time by clicking on the "Change Room" b
 Contributing
 
 If you wish to contribute to this project, kindly fork the repository and submit a pull request with your changes.
+
+
 License
 
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code as you wish. For more information, please refer to the LICENSE.md file.
