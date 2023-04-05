@@ -3,7 +3,7 @@
 This is a simple chat application that allows users to join three different chat rooms: "JavaScript", "CSS", and "Swift". The application is built using Node.js, Express, and Socket.io.
 Installation
 
-    Clone the repository: git clone https://github.com/yourusername/chat-app.git
+    Clone the repository: git clone https://github.com/Alamir151/chat-app-using-nodejs-and-scoket.io-and-express
     Navigate to the project directory: cd chat-app
     Install dependencies: npm install
     Start the server: npm start
